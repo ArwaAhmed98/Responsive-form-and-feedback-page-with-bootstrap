@@ -1,0 +1,33 @@
+*{
+    margin:0;
+    padding: 0%;
+}
+
+
+.container-for-sec1 {
+     width: 85%;
+    display: block !important;
+    margin: auto !important;
+    position:  left 50%;
+    text-align: center; 
+}
+
+body{
+    width: 100%;
+    background-color: antiquewhite;
+}
+.pref{
+    text-align: left;
+}
+footer{
+display: block;
+    margin: auto;
+    padding-top: 2%;
+text-align: center;
+}
+#button3{
+display: flex;
+justify-content: flex-start;
+margin-bottom: 50px;
+
+}
